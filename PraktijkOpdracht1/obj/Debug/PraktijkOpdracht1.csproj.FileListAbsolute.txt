@@ -1,0 +1,9 @@
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\bin\Debug\PraktijkOpdracht1.exe.config
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\bin\Debug\PraktijkOpdracht1.exe
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\bin\Debug\PraktijkOpdracht1.pdb
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\obj\Debug\PraktijkOpdracht1.csprojResolveAssemblyReference.cache
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\obj\Debug\PraktijkOpdracht1.Form1.resources
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\obj\Debug\PraktijkOpdracht1.Properties.Resources.resources
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\obj\Debug\PraktijkOpdracht1.csproj.GenerateResource.Cache
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\obj\Debug\PraktijkOpdracht1.exe
+c:\users\kelvin\documents\visual studio 2017\Projects\PraktijkOpdracht1\PraktijkOpdracht1\obj\Debug\PraktijkOpdracht1.pdb
